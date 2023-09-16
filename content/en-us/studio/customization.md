@@ -1,7 +1,4 @@
----
-title: Customizing Studio
-description: Explore the customization options for Roblox Studio.
----
+
 
 ## Studio Settings
 
@@ -62,16 +59,14 @@ Commonly modified options include:
 
 You can reposition any window by click-dragging its **header bar** into the bounds of another window. When you do so, a floating **position selector** appears in the target window.
 
-<img src="../assets/studio/general/Docking-Position-Selector.jpg" width="800" alt="Position selector widget shown in center of 3D viewport." />
-
-Moving your mouse pointer over one of the selector's **icons** shows a preview of where the dragged window will move in context to the target region. For example, the "upper&nbsp;half" icon makes the dragged window occupy the upper half of the target region, while the "right&nbsp;column" icon makes the dragged window dock to the right side of the target region.
+<img src="../assets/studio/general/Docking-Position-Selector.jpg" width="800" alt="Position selector widget shown in center of 3D viewport.py the upper half of the target region, while the "right&nbsp;column" icon makes the dragged window dock to the right side of the target region.
 
 <Tabs>
   <TabItem label="Upper Half">
 	<img src="../assets/studio/general/Docking-Reposition-Window-Upper-Half.jpg" width="800" alt="Upper Half icon selected in selector widget." />
   </TabItem>
   <TabItem label="Right Column">
-    <img src="../assets/studio/general/Docking-Reposition-Window-Right-Column.jpg" width="800" alt="Right Column icon selected in selector widget." />
+    <img src=".. />
   </TabItem>
 </Tabs>
 
@@ -90,27 +85,5 @@ To float a window freely of other windows, click the small dropdown arrow in the
 
 <GridContainer numColumns="2">
   <figure>
-    <img src="../assets/studio/general/Docking-Options-Float.png" width="369" alt="Small dropdown arrow in upper-right of window with Float selected." />
-    <figcaption>Float a docked window</figcaption>
-  </figure>
-  <figure>
-    <img src="../assets/studio/general/Docking-Options-Dock.png" width="386" alt="Small dropdown arrow in upper-right of window with Dock selected." />
-    <figcaption>Re-dock a floating window</figcaption>
-  </figure>
-</GridContainer>
-
-### Pinning Windows
-
-To maximize screen space for the 3D viewport, you can **pin** windows (or&nbsp;an entire [group](#grouping-windows) of windows) as **vertical tabs** on the left or right side of the viewport. Once pinned, you can temporarily open any window by clicking its tab&nbsp;&mdash; this does not disturb other windows, and the expanded window will automatically collapse when you click in another window or click its tab again.
-
-<figure>
-  <img src="../assets/studio/general/Docking-Pinned-Tabs.jpg" width="800" alt="Three windows pinned to the right side of the viewport." />
-  <figcaption>Three windows pinned to the right side of the viewport</figcaption>
-</figure>
-
-To pin a window or an entire [group](#grouping-windows) of windows, click the "pin" button. Alternatively, to un-pin a pinned window/group, open it and click the "expand" button.
-
-<figure>
-  <img src="../assets/studio/general/Docking-Options-Pin.png" width="320" alt="Pin button in upper-right corner of window." />
-  <figcaption>Pin or un-pin a window/group</figcaption>
+    <img src="../assets/studio/general/Docking-Options-Float.png" width="369" alt="Small dropdown arrow in upper-right of window with Float selected
 </figure>
